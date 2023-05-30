@@ -1,0 +1,1001 @@
+1,Austria,Carinthia,Klagenfurt,Central
+2,Austria,Carinthia,Villach,Central
+3,Austria,Salzburg,Salzburg,Central
+4,Austria,Styria,Graz,Central
+5,Austria,Tyrol,Innsbruck,Central
+6,Austria,Upper Austria,Linz,Central
+7,Austria,Upper Austria,Wels,Central
+8,Austria,Vienna,Vienna,Central
+9,Belgium,Antwerp,Antwerp,Central
+10,Belgium,Antwerp,Mechelen,Central
+11,Belgium,Brussels,Brussels,Central
+12,Belgium,East Flanders,Aalst,Central
+13,Belgium,East Flanders,Ghent,Central
+14,Belgium,East Flanders,Hamme,Central
+15,Belgium,Flemish Brabant,Leuven,Central
+16,Belgium,Hainaut,Charleroi,Central
+17,Belgium,Hainaut,Mouscron,Central
+18,Belgium,Hainaut,Tournai,Central
+19,Belgium,Liège,Seraing,Central
+20,Belgium,Liège,Verviers,Central
+21,Belgium,Limburg,Genk,Central
+22,Belgium,Limburg,Hasselt,Central
+23,Belgium,Limburg,Peer,Central
+24,Belgium,Namur,Namur,Central
+25,Belgium,West Flanders,Bruges,Central
+26,Belgium,West Flanders,Kortrijk,Central
+27,Belgium,West Flanders,Roeselare,Central
+28,Denmark,Central Jutland,Randers,North
+29,Denmark,Hovedstaden,Copenhagen,North
+30,Denmark,Hovedstaden,Frederiksberg,North
+31,Denmark,South Denmark,Esbjerg,North
+32,Denmark,South Denmark,Odense,North
+33,Denmark,South Denmark,Sonderborg,North
+34,Denmark,Zealand,Kalundborg,North
+35,Finland,Finland Proper,Turku,North
+36,Finland,Kymenlaakso,Kotka,North
+37,Finland,Uusimaa,Espoo,North
+38,Finland,Uusimaa,Helsinki,North
+39,Finland,Uusimaa,Vantaa,North
+40,France,Alsace-Champagne-Ardenne-Lorraine,Bar-le-Duc,Central
+41,France,Alsace-Champagne-Ardenne-Lorraine,Chaumont,Central
+42,France,Alsace-Champagne-Ardenne-Lorraine,Colmar,Central
+43,France,Alsace-Champagne-Ardenne-Lorraine,Epinal,Central
+44,France,Alsace-Champagne-Ardenne-Lorraine,Forbach,Central
+45,France,Alsace-Champagne-Ardenne-Lorraine,Haguenau,Central
+46,France,Alsace-Champagne-Ardenne-Lorraine,Illkirch-Graffenstaden,Central
+47,France,Alsace-Champagne-Ardenne-Lorraine,Metz,Central
+48,France,Alsace-Champagne-Ardenne-Lorraine,Mulhouse,Central
+49,France,Alsace-Champagne-Ardenne-Lorraine,Nancy,Central
+50,France,Alsace-Champagne-Ardenne-Lorraine,Reims,Central
+51,France,Alsace-Champagne-Ardenne-Lorraine,Saint-Avold,Central
+52,France,Alsace-Champagne-Ardenne-Lorraine,Saint-Dizier,Central
+53,France,Alsace-Champagne-Ardenne-Lorraine,Saint-Louis,Central
+54,France,Alsace-Champagne-Ardenne-Lorraine,Sarreguemines,Central
+55,France,Alsace-Champagne-Ardenne-Lorraine,Schiltigheim,Central
+56,France,Alsace-Champagne-Ardenne-Lorraine,Strasbourg,Central
+57,France,Alsace-Champagne-Ardenne-Lorraine,Thionville,Central
+58,France,Alsace-Champagne-Ardenne-Lorraine,Verdun,Central
+59,France,Aquitaine-Limousin-Poitou-Charentes,Agen,Central
+60,France,Aquitaine-Limousin-Poitou-Charentes,Anglet,Central
+61,France,Aquitaine-Limousin-Poitou-Charentes,Bayonne,Central
+62,France,Aquitaine-Limousin-Poitou-Charentes,Biarritz,Central
+63,France,Aquitaine-Limousin-Poitou-Charentes,Blanquefort,Central
+64,France,Aquitaine-Limousin-Poitou-Charentes,Bordeaux,Central
+65,France,Aquitaine-Limousin-Poitou-Charentes,Bressuire,Central
+66,France,Aquitaine-Limousin-Poitou-Charentes,Brive-la-Gaillarde,Central
+67,France,Aquitaine-Limousin-Poitou-Charentes,Cestas,Central
+68,France,Aquitaine-Limousin-Poitou-Charentes,Cognac,Central
+69,France,Aquitaine-Limousin-Poitou-Charentes,Gradignan,Central
+70,France,Aquitaine-Limousin-Poitou-Charentes,La Rochelle,Central
+71,France,Aquitaine-Limousin-Poitou-Charentes,La Teste-de-Buch,Central
+72,France,Aquitaine-Limousin-Poitou-Charentes,Le Bouscat,Central
+73,France,Aquitaine-Limousin-Poitou-Charentes,Libourne,Central
+74,France,Aquitaine-Limousin-Poitou-Charentes,Limoges,Central
+75,France,Aquitaine-Limousin-Poitou-Charentes,Lormont,Central
+76,France,Aquitaine-Limousin-Poitou-Charentes,Mont-de-Marsan,Central
+77,France,Aquitaine-Limousin-Poitou-Charentes,Niort,Central
+78,France,Aquitaine-Limousin-Poitou-Charentes,Pau,Central
+79,France,Aquitaine-Limousin-Poitou-Charentes,Pessac,Central
+80,France,Aquitaine-Limousin-Poitou-Charentes,Poitiers,Central
+81,France,Aquitaine-Limousin-Poitou-Charentes,Rochefort,Central
+82,France,Aquitaine-Limousin-Poitou-Charentes,Talence,Central
+83,France,Aquitaine-Limousin-Poitou-Charentes,Tulle,Central
+84,France,Aquitaine-Limousin-Poitou-Charentes,Villeneuve-sur-Lot,Central
+85,France,Auvergne-Rhône-Alpes,Aix-les-Bains,Central
+86,France,Auvergne-Rhône-Alpes,Albertville,Central
+87,France,Auvergne-Rhône-Alpes,Annecy,Central
+88,France,Auvergne-Rhône-Alpes,Annecy-le-Vieux,Central
+89,France,Auvergne-Rhône-Alpes,Annemasse,Central
+90,France,Auvergne-Rhône-Alpes,Annonay,Central
+91,France,Auvergne-Rhône-Alpes,Bourg-en-Bresse,Central
+92,France,Auvergne-Rhône-Alpes,Bourgoin-Jallieu,Central
+93,France,Auvergne-Rhône-Alpes,Bron,Central
+94,France,Auvergne-Rhône-Alpes,Clermont-Ferrand,Central
+95,France,Auvergne-Rhône-Alpes,Cluses,Central
+96,France,Auvergne-Rhône-Alpes,Cournon-d'Auvergne,Central
+97,France,Auvergne-Rhône-Alpes,Echirolles,Central
+98,France,Auvergne-Rhône-Alpes,Firminy,Central
+99,France,Auvergne-Rhône-Alpes,Fontaine,Central
+100,France,Auvergne-Rhône-Alpes,Givors,Central
+101,France,Auvergne-Rhône-Alpes,Grenoble,Central
+102,France,Auvergne-Rhône-Alpes,Issoire,Central
+103,France,Auvergne-Rhône-Alpes,Lyon,Central
+104,France,Auvergne-Rhône-Alpes,Meyzieu,Central
+105,France,Auvergne-Rhône-Alpes,Montbrison,Central
+106,France,Auvergne-Rhône-Alpes,Moulins,Central
+107,France,Auvergne-Rhône-Alpes,Oullins,Central
+108,France,Auvergne-Rhône-Alpes,Oyonnax,Central
+109,France,Auvergne-Rhône-Alpes,Rillieux-la-Pape,Central
+110,France,Auvergne-Rhône-Alpes,Riom,Central
+111,France,Auvergne-Rhône-Alpes,Roanne,Central
+112,France,Auvergne-Rhône-Alpes,Saint-Chamond,Central
+113,France,Auvergne-Rhône-Alpes,Saint-Genis-Laval,Central
+114,France,Auvergne-Rhône-Alpes,Saint-Priest,Central
+115,France,Auvergne-Rhône-Alpes,Thonon-les-Bains,Central
+116,France,Auvergne-Rhône-Alpes,Valence,Central
+117,France,Auvergne-Rhône-Alpes,Vaulx-en-Velin,Central
+118,France,Auvergne-Rhône-Alpes,Vichy,Central
+119,France,Auvergne-Rhône-Alpes,Villefontaine,Central
+120,France,Auvergne-Rhône-Alpes,Villeurbanne,Central
+121,France,Auvergne-Rhône-Alpes,Voiron,Central
+122,France,Bourgogne-Franche-Comté,Auxerre,Central
+123,France,Bourgogne-Franche-Comté,Beaune,Central
+124,France,Bourgogne-Franche-Comté,Belfort,Central
+125,France,Bourgogne-Franche-Comté,Dijon,Central
+126,France,Bourgogne-Franche-Comté,Lons-le-Saunier,Central
+127,France,Bourgogne-Franche-Comté,Mâcon,Central
+128,France,Brittany,Brest,Central
+129,France,Brittany,Concarneau,Central
+130,France,Brittany,Landerneau,Central
+131,France,Brittany,Lanester,Central
+132,France,Brittany,Lorient,Central
+133,France,Brittany,Ploemeur,Central
+134,France,Brittany,Pontivy,Central
+135,France,Brittany,Quimper,Central
+136,France,Brittany,Rennes,Central
+137,France,Brittany,Saint-Brieuc,Central
+138,France,Brittany,Saint-Malo,Central
+139,France,Brittany,Vannes,Central
+140,France,Centre-Val de Loire,Bourges,Central
+141,France,Centre-Val de Loire,Chartres,Central
+142,France,Centre-Val de Loire,Dreux,Central
+143,France,Centre-Val de Loire,Fleury-les-Aubrais,Central
+144,France,Centre-Val de Loire,Montargis,Central
+145,France,Centre-Val de Loire,Saint-Jean-de-la-Ruelle,Central
+146,France,Centre-Val de Loire,Tours,Central
+147,France,Corsica,Ajaccio,Central
+148,France,Corsica,Bastia,Central
+149,France,Ile-de-France,Alfortville,Central
+150,France,Ile-de-France,Antony,Central
+151,France,Ile-de-France,Argenteuil,Central
+152,France,Ile-de-France,Athis-Mons,Central
+153,France,Ile-de-France,Aubervilliers,Central
+154,France,Ile-de-France,Aulnay-sous-Bois,Central
+155,France,Ile-de-France,Bagneux,Central
+156,France,Ile-de-France,Bagnolet,Central
+157,France,Ile-de-France,Bondy,Central
+158,France,Ile-de-France,Bonneuil-sur-Marne,Central
+159,France,Ile-de-France,Boulogne-Billancourt,Central
+160,France,Ile-de-France,Bry-sur-Marne,Central
+161,France,Ile-de-France,Cachan,Central
+162,France,Ile-de-France,Cergy,Central
+163,France,Ile-de-France,Champigny-sur-Marne,Central
+164,France,Ile-de-France,Chelles,Central
+165,France,Ile-de-France,Chilly-Mazarin,Central
+166,France,Ile-de-France,Choisy-le-Roi,Central
+167,France,Ile-de-France,Clamart,Central
+168,France,Ile-de-France,Clichy,Central
+169,France,Ile-de-France,Clichy-sous-Bois,Central
+170,France,Ile-de-France,Colombes,Central
+171,France,Ile-de-France,Conflans-Sainte-Honorine,Central
+172,France,Ile-de-France,Corbeil-Essonnes,Central
+173,France,Ile-de-France,Cormeilles-en-Parisis,Central
+174,France,Ile-de-France,Coulommiers,Central
+175,France,Ile-de-France,Courbevoie,Central
+176,France,Ile-de-France,Deuil-la-Barre,Central
+177,France,Ile-de-France,Domont,Central
+178,France,Ile-de-France,Drancy,Central
+179,France,Ile-de-France,Ermont,Central
+180,France,Ile-de-France,Evry,Central
+181,France,Ile-de-France,Fontainebleau,Central
+182,France,Ile-de-France,Fontenay-aux-Roses,Central
+183,France,Ile-de-France,Fontenay-sous-Bois,Central
+184,France,Ile-de-France,Franconville,Central
+185,France,Ile-de-France,Fresnes,Central
+186,France,Ile-de-France,Gagny,Central
+187,France,Ile-de-France,Gennevilliers,Central
+188,France,Ile-de-France,Gonesse,Central
+189,France,Ile-de-France,Grigny,Central
+190,France,Ile-de-France,Guyancourt,Central
+191,France,Ile-de-France,Issy-les-Moulineaux,Central
+192,France,Ile-de-France,Ivry-sur-Seine,Central
+193,France,Ile-de-France,Lagny-sur-Marne,Central
+194,France,Ile-de-France,Le Blanc-Mesnil,Central
+195,France,Ile-de-France,Le Chesnay,Central
+196,France,Ile-de-France,Le Plessis-Robinson,Central
+197,France,Ile-de-France,Le Pré-Saint-Gervais,Central
+198,France,Ile-de-France,Les Lilas,Central
+199,France,Ile-de-France,Les Mureaux,Central
+200,France,Ile-de-France,Les Pavillons-sous-Bois,Central
+201,France,Ile-de-France,Les Ulis,Central
+202,France,Ile-de-France,Levallois-Perret,Central
+203,France,Ile-de-France,Limay,Central
+204,France,Ile-de-France,Livry-Gargan,Central
+205,France,Ile-de-France,Longjumeau,Central
+206,France,Ile-de-France,Maisons-Alfort,Central
+207,France,Ile-de-France,Maisons-Laffitte,Central
+208,France,Ile-de-France,Malakoff,Central
+209,France,Ile-de-France,Mantes-la-Jolie,Central
+210,France,Ile-de-France,Mantes-la-Ville,Central
+211,France,Ile-de-France,Marly-le-Roi,Central
+212,France,Ile-de-France,Massy,Central
+213,France,Ile-de-France,Meaux,Central
+214,France,Ile-de-France,Melun,Central
+215,France,Ile-de-France,Meudon,Central
+216,France,Ile-de-France,Mitry-Mory,Central
+217,France,Ile-de-France,Moissy-Cramayel,Central
+218,France,Ile-de-France,Montesson,Central
+219,France,Ile-de-France,Montgeron,Central
+220,France,Ile-de-France,Montigny-le-Bretonneux,Central
+221,France,Ile-de-France,Montmorency,Central
+222,France,Ile-de-France,Montreuil,Central
+223,France,Ile-de-France,Montrouge,Central
+224,France,Ile-de-France,Nanterre,Central
+225,France,Ile-de-France,Neuilly-Plaisance,Central
+226,France,Ile-de-France,Neuilly-sur-Marne,Central
+227,France,Ile-de-France,Neuilly-sur-Seine,Central
+228,France,Ile-de-France,Noisy-le-Grand,Central
+229,France,Ile-de-France,Noisy-le-Sec,Central
+230,France,Ile-de-France,Orsay,Central
+231,France,Ile-de-France,Osny,Central
+232,France,Ile-de-France,Palaiseau,Central
+233,France,Ile-de-France,Pantin,Central
+234,France,Ile-de-France,Paris,Central
+235,France,Ile-de-France,Pierrefitte-sur-Seine,Central
+236,France,Ile-de-France,Plaisir,Central
+237,France,Ile-de-France,Poissy,Central
+238,France,Ile-de-France,Pontault-Combault,Central
+239,France,Ile-de-France,Pontoise,Central
+240,France,Ile-de-France,Puteaux,Central
+241,France,Ile-de-France,Rambouillet,Central
+242,France,Ile-de-France,Roissy-en-Brie,Central
+243,France,Ile-de-France,Rosny-sous-Bois,Central
+244,France,Ile-de-France,Rueil-Malmaison,Central
+245,France,Ile-de-France,Saint-Cloud,Central
+246,France,Ile-de-France,Saint-Denis,Central
+247,France,Ile-de-France,Saint-Germain-en-Laye,Central
+248,France,Ile-de-France,Saint-Gratien,Central
+249,France,Ile-de-France,Saint-Michel-sur-Orge,Central
+250,France,Ile-de-France,Saint-Ouen,Central
+251,France,Ile-de-France,Sannois,Central
+252,France,Ile-de-France,Sarcelles,Central
+253,France,Ile-de-France,Sartrouville,Central
+254,France,Ile-de-France,Savigny-le-Temple,Central
+255,France,Ile-de-France,Sevran,Central
+256,France,Ile-de-France,Stains,Central
+257,France,Ile-de-France,Sucy-en-Brie,Central
+258,France,Ile-de-France,Taverny,Central
+259,France,Ile-de-France,Thiais,Central
+260,France,Ile-de-France,Torcy,Central
+261,France,Ile-de-France,Trappes,Central
+262,France,Ile-de-France,Tremblay-en-France,Central
+263,France,Ile-de-France,Vanves,Central
+264,France,Ile-de-France,Versailles,Central
+265,France,Ile-de-France,Vigneux-sur-Seine,Central
+266,France,Ile-de-France,Villejuif,Central
+267,France,Ile-de-France,Villemomble,Central
+268,France,Ile-de-France,Villeneuve-le-Roi,Central
+269,France,Ile-de-France,Villeneuve-Saint-Georges,Central
+270,France,Ile-de-France,Villeparisis,Central
+271,France,Ile-de-France,Villiers-le-Bel,Central
+272,France,Ile-de-France,Villiers-sur-Marne,Central
+273,France,Ile-de-France,Vincennes,Central
+274,France,Ile-de-France,Viroflay,Central
+275,France,Ile-de-France,Vitry-sur-Seine,Central
+276,France,Languedoc-Roussillon-Midi-Pyrénées,Agde,Central
+277,France,Languedoc-Roussillon-Midi-Pyrénées,Albi,Central
+278,France,Languedoc-Roussillon-Midi-Pyrénées,Auch,Central
+279,France,Languedoc-Roussillon-Midi-Pyrénées,Carcassonne,Central
+280,France,Languedoc-Roussillon-Midi-Pyrénées,Castelnau-le-Lez,Central
+281,France,Languedoc-Roussillon-Midi-Pyrénées,Castres,Central
+282,France,Languedoc-Roussillon-Midi-Pyrénées,Colomiers,Central
+283,France,Languedoc-Roussillon-Midi-Pyrénées,Frontignan,Central
+284,France,Languedoc-Roussillon-Midi-Pyrénées,Lattes,Central
+285,France,Languedoc-Roussillon-Midi-Pyrénées,Lunel,Central
+286,France,Languedoc-Roussillon-Midi-Pyrénées,Mauguio,Central
+287,France,Languedoc-Roussillon-Midi-Pyrénées,Millau,Central
+288,France,Languedoc-Roussillon-Midi-Pyrénées,Montauban,Central
+289,France,Languedoc-Roussillon-Midi-Pyrénées,Montpellier,Central
+290,France,Languedoc-Roussillon-Midi-Pyrénées,Muret,Central
+291,France,Languedoc-Roussillon-Midi-Pyrénées,Narbonne,Central
+292,France,Languedoc-Roussillon-Midi-Pyrénées,Pamiers,Central
+293,France,Languedoc-Roussillon-Midi-Pyrénées,Perpignan,Central
+294,France,Languedoc-Roussillon-Midi-Pyrénées,Plaisance-du-Touch,Central
+295,France,Languedoc-Roussillon-Midi-Pyrénées,Sète,Central
+296,France,Languedoc-Roussillon-Midi-Pyrénées,Tarbes,Central
+297,France,Languedoc-Roussillon-Midi-Pyrénées,Toulouse,Central
+298,France,Languedoc-Roussillon-Midi-Pyrénées,Tournefeuille,Central
+299,France,Nord-Pas-de-Calais-Picardie,Abbeville,Central
+300,France,Nord-Pas-de-Calais-Picardie,Amiens,Central
+301,France,Nord-Pas-de-Calais-Picardie,Arras,Central
+302,France,Nord-Pas-de-Calais-Picardie,Avion,Central
+303,France,Nord-Pas-de-Calais-Picardie,Beauvais,Central
+304,France,Nord-Pas-de-Calais-Picardie,Berck,Central
+305,France,Nord-Pas-de-Calais-Picardie,Boulogne-sur-Mer,Central
+306,France,Nord-Pas-de-Calais-Picardie,Calais,Central
+307,France,Nord-Pas-de-Calais-Picardie,Cambrai,Central
+308,France,Nord-Pas-de-Calais-Picardie,Carvin,Central
+309,France,Nord-Pas-de-Calais-Picardie,Coudekerque-Branche,Central
+310,France,Nord-Pas-de-Calais-Picardie,Creil,Central
+311,France,Nord-Pas-de-Calais-Picardie,Denain,Central
+312,France,Nord-Pas-de-Calais-Picardie,Douai,Central
+313,France,Nord-Pas-de-Calais-Picardie,Faches-Thumesnil,Central
+314,France,Nord-Pas-de-Calais-Picardie,Halluin,Central
+315,France,Nord-Pas-de-Calais-Picardie,Hautmont,Central
+316,France,Nord-Pas-de-Calais-Picardie,Hazebrouck,Central
+317,France,Nord-Pas-de-Calais-Picardie,La Madeleine,Central
+318,France,Nord-Pas-de-Calais-Picardie,Laon,Central
+319,France,Nord-Pas-de-Calais-Picardie,Lens,Central
+320,France,Nord-Pas-de-Calais-Picardie,Lille,Central
+321,France,Nord-Pas-de-Calais-Picardie,Lomme,Central
+322,France,Nord-Pas-de-Calais-Picardie,Mons-en-Baroeul,Central
+323,France,Nord-Pas-de-Calais-Picardie,Nogent-sur-Oise,Central
+324,France,Nord-Pas-de-Calais-Picardie,Outreau,Central
+325,France,Nord-Pas-de-Calais-Picardie,Ronchin,Central
+326,France,Nord-Pas-de-Calais-Picardie,Roubaix,Central
+327,France,Nord-Pas-de-Calais-Picardie,Saint-Pol-sur-Mer,Central
+328,France,Nord-Pas-de-Calais-Picardie,Saint-Quentin,Central
+329,France,Nord-Pas-de-Calais-Picardie,Senlis,Central
+330,France,Nord-Pas-de-Calais-Picardie,Soissons,Central
+331,France,Nord-Pas-de-Calais-Picardie,Tourcoing,Central
+332,France,Nord-Pas-de-Calais-Picardie,Valenciennes,Central
+333,France,Nord-Pas-de-Calais-Picardie,Villeneuve-d'Ascq,Central
+334,France,Nord-Pas-de-Calais-Picardie,Wasquehal,Central
+335,France,Nord-Pas-de-Calais-Picardie,Wattrelos,Central
+336,France,Normandy,Argentan,Central
+337,France,Normandy,Bayeux,Central
+338,France,Normandy,Caen,Central
+339,France,Normandy,Dieppe,Central
+340,France,Normandy,Evreux,Central
+341,France,Normandy,Flers,Central
+342,France,Normandy,Le Havre,Central
+343,France,Normandy,Le Petit-Quevilly,Central
+344,France,Normandy,Lisieux,Central
+345,France,Normandy,Louviers,Central
+346,France,Normandy,Mont-Saint-Aignan,Central
+347,France,Normandy,Rouen,Central
+348,France,Normandy,Vernon,Central
+349,France,Pays de la Loire,Angers,Central
+350,France,Pays de la Loire,Carquefou,Central
+351,France,Pays de la Loire,Cholet,Central
+352,France,Pays de la Loire,La Baule-Escoublac,Central
+353,France,Pays de la Loire,Laval,Central
+354,France,Pays de la Loire,Le Mans,Central
+355,France,Pays de la Loire,Les Herbiers,Central
+356,France,Pays de la Loire,Nantes,Central
+357,France,Pays de la Loire,Saint-Herblain,Central
+358,France,Pays de la Loire,Saint-Nazaire,Central
+359,France,Pays de la Loire,Saumur,Central
+360,France,Pays de la Loire,Vertou,Central
+361,France,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Central
+362,France,Provence-Alpes-Côte d'Azur,Allauch,Central
+363,France,Provence-Alpes-Côte d'Azur,Antibes,Central
+364,France,Provence-Alpes-Côte d'Azur,Arles,Central
+365,France,Provence-Alpes-Côte d'Azur,Avignon,Central
+366,France,Provence-Alpes-Côte d'Azur,Cagnes-sur-Mer,Central
+367,France,Provence-Alpes-Côte d'Azur,Cannes,Central
+368,France,Provence-Alpes-Côte d'Azur,Carpentras,Central
+369,France,Provence-Alpes-Côte d'Azur,Digne-les-Bains,Central
+370,France,Provence-Alpes-Côte d'Azur,Draguignan,Central
+371,France,Provence-Alpes-Côte d'Azur,Gap,Central
+372,France,Provence-Alpes-Côte d'Azur,Grasse,Central
+373,France,Provence-Alpes-Côte d'Azur,Istres,Central
+374,France,Provence-Alpes-Côte d'Azur,La Ciotat,Central
+375,France,Provence-Alpes-Côte d'Azur,La Crau,Central
+376,France,Provence-Alpes-Côte d'Azur,La Seyne-sur-Mer,Central
+377,France,Provence-Alpes-Côte d'Azur,Le Cannet,Central
+378,France,Provence-Alpes-Côte d'Azur,Le Pontet,Central
+379,France,Provence-Alpes-Côte d'Azur,Marignane,Central
+380,France,Provence-Alpes-Côte d'Azur,Marseille,Central
+381,France,Provence-Alpes-Côte d'Azur,Martigues,Central
+382,France,Provence-Alpes-Côte d'Azur,Menton,Central
+383,France,Provence-Alpes-Côte d'Azur,Miramas,Central
+384,France,Provence-Alpes-Côte d'Azur,Mougins,Central
+385,France,Provence-Alpes-Côte d'Azur,Nice,Central
+386,France,Provence-Alpes-Côte d'Azur,Pertuis,Central
+387,France,Provence-Alpes-Côte d'Azur,Saint-Laurent-du-Var,Central
+388,France,Provence-Alpes-Côte d'Azur,Salon-de-Provence,Central
+389,France,Provence-Alpes-Côte d'Azur,Sanary-sur-Mer,Central
+390,France,Provence-Alpes-Côte d'Azur,Six-Fours-les-Plages,Central
+391,France,Provence-Alpes-Côte d'Azur,Sorgues,Central
+392,France,Provence-Alpes-Côte d'Azur,Toulon,Central
+393,France,Provence-Alpes-Côte d'Azur,Vallauris,Central
+394,France,Provence-Alpes-Côte d'Azur,Vitrolles,Central
+395,Germany,Baden-Württemberg,Aalen,Central
+396,Germany,Baden-Württemberg,Bad Waldsee,Central
+397,Germany,Baden-Württemberg,Baden-Baden,Central
+398,Germany,Baden-Württemberg,Eggenstein-Leopoldshafen,Central
+399,Germany,Baden-Württemberg,Freiburg,Central
+400,Germany,Baden-Württemberg,Friedrichshafen,Central
+401,Germany,Baden-Württemberg,Heidelberg,Central
+402,Germany,Baden-Württemberg,Heilbronn,Central
+403,Germany,Baden-Württemberg,Karlsruhe,Central
+404,Germany,Baden-Württemberg,Ludwigsburg,Central
+405,Germany,Baden-Württemberg,Mannheim,Central
+406,Germany,Baden-Württemberg,Offenburg,Central
+407,Germany,Baden-Württemberg,Pforzheim,Central
+408,Germany,Baden-Württemberg,Reutlingen,Central
+409,Germany,Baden-Württemberg,Sindelfingen,Central
+410,Germany,Baden-Württemberg,Stuttgart,Central
+411,Germany,Baden-Württemberg,Ulm,Central
+412,Germany,Baden-Württemberg,Villingen-Schwenningen,Central
+413,Germany,Baden-Württemberg,Waiblingen,Central
+414,Germany,Bavaria,Aschaffenburg,Central
+415,Germany,Bavaria,Augsburg,Central
+416,Germany,Bavaria,Bamberg,Central
+417,Germany,Bavaria,Bayreuth,Central
+418,Germany,Bavaria,Erlangen,Central
+419,Germany,Bavaria,Günzburg,Central
+420,Germany,Bavaria,Ingolstadt,Central
+421,Germany,Bavaria,Munich,Central
+422,Germany,Bavaria,Nuremberg,Central
+423,Germany,Bavaria,Passau,Central
+424,Germany,Bavaria,Regensburg,Central
+425,Germany,Bavaria,Rosenheim,Central
+426,Germany,Berlin,Berlin,Central
+427,Germany,Brandenburg,Brandenburg,Central
+428,Germany,Brandenburg,Cottbus,Central
+429,Germany,Brandenburg,Forst,Central
+430,Germany,Brandenburg,Ludwigsfelde,Central
+431,Germany,Brandenburg,Potsdam,Central
+432,Germany,Bremen,Bremen,Central
+433,Germany,Hamburg,Hamburg,Central
+434,Germany,Hesse,Darmstadt,Central
+435,Germany,Hesse,Frankfurt,Central
+436,Germany,Hesse,Friedberg,Central
+437,Germany,Hesse,Fulda,Central
+438,Germany,Hesse,Kassel,Central
+439,Germany,Hesse,Langen,Central
+440,Germany,Hesse,Offenbach,Central
+441,Germany,Hesse,Wetzlar,Central
+442,Germany,Hesse,Wiesbaden,Central
+443,Germany,Lower Saxony,Celle,Central
+444,Germany,Lower Saxony,Cuxhaven,Central
+445,Germany,Lower Saxony,Delmenhorst,Central
+446,Germany,Lower Saxony,Emden,Central
+447,Germany,Lower Saxony,Garbsen,Central
+448,Germany,Lower Saxony,Hanover,Central
+449,Germany,Lower Saxony,Hildesheim,Central
+450,Germany,Lower Saxony,Langen,Central
+451,Germany,Lower Saxony,Langenhagen,Central
+452,Germany,Lower Saxony,Lohne,Central
+453,Germany,Lower Saxony,Munster,Central
+454,Germany,Lower Saxony,Oldenburg,Central
+455,Germany,Lower Saxony,Wilhelmshaven,Central
+456,Germany,Lower Saxony,Wolfsburg,Central
+457,Germany,Mecklenburg-Vorpommern,Greifswald,Central
+458,Germany,Mecklenburg-Vorpommern,Neubrandenburg,Central
+459,Germany,Mecklenburg-Vorpommern,Rostock,Central
+460,Germany,Mecklenburg-Vorpommern,Schwerin,Central
+461,Germany,Mecklenburg-Vorpommern,Stralsund,Central
+462,Germany,North Rhine-Westphalia,Aachen,Central
+463,Germany,North Rhine-Westphalia,Arnsberg,Central
+464,Germany,North Rhine-Westphalia,Bergheim,Central
+465,Germany,North Rhine-Westphalia,Bergisch Gladbach,Central
+466,Germany,North Rhine-Westphalia,Bielefeld,Central
+467,Germany,North Rhine-Westphalia,Bochum,Central
+468,Germany,North Rhine-Westphalia,Bonn,Central
+469,Germany,North Rhine-Westphalia,Borken,Central
+470,Germany,North Rhine-Westphalia,Bottrop,Central
+471,Germany,North Rhine-Westphalia,Castrop-Rauxel,Central
+472,Germany,North Rhine-Westphalia,Cologne,Central
+473,Germany,North Rhine-Westphalia,Detmold,Central
+474,Germany,North Rhine-Westphalia,Dinslaken,Central
+475,Germany,North Rhine-Westphalia,Dormagen,Central
+476,Germany,North Rhine-Westphalia,Dorsten,Central
+477,Germany,North Rhine-Westphalia,Dortmund,Central
+478,Germany,North Rhine-Westphalia,Duisburg,Central
+479,Germany,North Rhine-Westphalia,Ennigerloh,Central
+480,Germany,North Rhine-Westphalia,Erftstadt,Central
+481,Germany,North Rhine-Westphalia,Essen,Central
+482,Germany,North Rhine-Westphalia,Euskirchen,Central
+483,Germany,North Rhine-Westphalia,Gelsenkirchen,Central
+484,Germany,North Rhine-Westphalia,Gladbeck,Central
+485,Germany,North Rhine-Westphalia,Grevenbroich,Central
+486,Germany,North Rhine-Westphalia,Gronau,Central
+487,Germany,North Rhine-Westphalia,Gummersbach,Central
+488,Germany,North Rhine-Westphalia,Hagen,Central
+489,Germany,North Rhine-Westphalia,Halle,Central
+490,Germany,North Rhine-Westphalia,Hamm,Central
+491,Germany,North Rhine-Westphalia,Hattingen,Central
+492,Germany,North Rhine-Westphalia,Herford,Central
+493,Germany,North Rhine-Westphalia,Herne,Central
+494,Germany,North Rhine-Westphalia,Herten,Central
+495,Germany,North Rhine-Westphalia,Hilden,Central
+496,Germany,North Rhine-Westphalia,Iserlohn,Central
+497,Germany,North Rhine-Westphalia,Kerpen,Central
+498,Germany,North Rhine-Westphalia,Krefeld,Central
+499,Germany,North Rhine-Westphalia,Langenfeld,Central
+500,Germany,North Rhine-Westphalia,Leverkusen,Central
+501,Germany,North Rhine-Westphalia,Lippstadt,Central
+502,Germany,North Rhine-Westphalia,Marl,Central
+503,Germany,North Rhine-Westphalia,Menden,Central
+504,Germany,North Rhine-Westphalia,Minden,Central
+505,Germany,North Rhine-Westphalia,Moers,Central
+506,Germany,North Rhine-Westphalia,Oberhausen,Central
+507,Germany,North Rhine-Westphalia,Paderborn,Central
+508,Germany,North Rhine-Westphalia,Pulheim,Central
+509,Germany,North Rhine-Westphalia,Ratingen,Central
+510,Germany,North Rhine-Westphalia,Recklinghausen,Central
+511,Germany,North Rhine-Westphalia,Remscheid,Central
+512,Germany,North Rhine-Westphalia,Siegen,Central
+513,Germany,North Rhine-Westphalia,Solingen,Central
+514,Germany,North Rhine-Westphalia,Troisdorf,Central
+515,Germany,North Rhine-Westphalia,Unna,Central
+516,Germany,North Rhine-Westphalia,Velbert,Central
+517,Germany,North Rhine-Westphalia,Viersen,Central
+518,Germany,North Rhine-Westphalia,Wetter (Ruhr),Central
+519,Germany,North Rhine-Westphalia,Willich,Central
+520,Germany,North Rhine-Westphalia,Witten,Central
+521,Germany,North Rhine-Westphalia,Wuppertal,Central
+522,Germany,Rhineland-Palatinate,Kaiserslautern,Central
+523,Germany,Rhineland-Palatinate,Koblenz,Central
+524,Germany,Rhineland-Palatinate,Ludwigshafen am Rhein,Central
+525,Germany,Rhineland-Palatinate,Mainz,Central
+526,Germany,Rhineland-Palatinate,Neuwied,Central
+527,Germany,Rhineland-Palatinate,Trier,Central
+528,Germany,Rhineland-Palatinate,Worms,Central
+529,Germany,Saarland,Neunkirchen,Central
+530,Germany,Saarland,Schiffweiler,Central
+531,Germany,Saxony-Anhalt,Halle,Central
+532,Germany,Saxony-Anhalt,Magdeburg,Central
+533,Germany,Saxony,Chemnitz,Central
+534,Germany,Saxony,Dresden,Central
+535,Germany,Saxony,Leipzig,Central
+536,Germany,Saxony,Zwickau,Central
+537,Germany,Schleswig-Holstein,Flensburg,Central
+538,Germany,Schleswig-Holstein,Kiel,Central
+539,Germany,Schleswig-Holstein,Norderstedt,Central
+540,Germany,Thuringia,Erfurt,Central
+541,Germany,Thuringia,Gera,Central
+542,Germany,Thuringia,Jena,Central
+543,Germany,Thuringia,Sonneberg,Central
+544,Germany,Thuringia,Weimar,Central
+545,Ireland,Cork,Cork,North
+546,Ireland,Dublin,Dublin,North
+547,Ireland,Dublin,Tallaght,North
+548,Ireland,Galway,Galway,North
+549,Italy,Abruzzi,Chieti,South
+550,Italy,Abruzzi,Pescara,South
+551,Italy,Abruzzi,Teramo,South
+552,Italy,Apulia,Altamura,South
+553,Italy,Apulia,Andria,South
+554,Italy,Apulia,Bari,South
+555,Italy,Apulia,Barletta,South
+556,Italy,Apulia,Bisceglie,South
+557,Italy,Apulia,Brindisi,South
+558,Italy,Apulia,Cerignola,South
+559,Italy,Apulia,Foggia,South
+560,Italy,Apulia,Lecce,South
+561,Italy,Apulia,Manfredonia,South
+562,Italy,Apulia,Molfetta,South
+563,Italy,Apulia,San Severo,South
+564,Italy,Apulia,Taranto,South
+565,Italy,Apulia,Trani,South
+566,Italy,Basilicata,Potenza,South
+567,Italy,Calabria,Cosenza,South
+568,Italy,Calabria,Crotone,South
+569,Italy,Campania,Acerra,South
+570,Italy,Campania,Afragola,South
+571,Italy,Campania,Avellino,South
+572,Italy,Campania,Battipaglia,South
+573,Italy,Campania,Benevento,South
+574,Italy,Campania,Boscoreale,South
+575,Italy,Campania,Capua,South
+576,Italy,Campania,Caserta,South
+577,Italy,Campania,Casoria,South
+578,Italy,Campania,Castellammare di Stabia,South
+579,Italy,Campania,Cercola,South
+580,Italy,Campania,Ercolano,South
+581,Italy,Campania,Marano di Napoli,South
+582,Italy,Campania,Naples,South
+583,Italy,Campania,Portici,South
+584,Italy,Campania,Pozzuoli,South
+585,Italy,Campania,Torre del Greco,South
+586,Italy,Emilia-Romagna,Bologna,South
+587,Italy,Emilia-Romagna,Carpi,South
+588,Italy,Emilia-Romagna,Cesena,South
+589,Italy,Emilia-Romagna,Faenza,South
+590,Italy,Emilia-Romagna,Ferrara,South
+591,Italy,Emilia-Romagna,Imola,South
+592,Italy,Emilia-Romagna,Modena,South
+593,Italy,Emilia-Romagna,Parma,South
+594,Italy,Emilia-Romagna,Piacenza,South
+595,Italy,Emilia-Romagna,Ravenna,South
+596,Italy,Emilia-Romagna,Reggio nell'Emilia,South
+597,Italy,Emilia-Romagna,Rimini,South
+598,Italy,Emilia-Romagna,Vignola,South
+599,Italy,Friuli-Venezia Giulia,Trieste,South
+600,Italy,Lazio,Anzio,South
+601,Italy,Lazio,Aprilia,South
+602,Italy,Lazio,Civitavecchia,South
+603,Italy,Lazio,Fiumicino,South
+604,Italy,Lazio,Guidonia Montecelio,South
+605,Italy,Lazio,Latina,South
+606,Italy,Lazio,Pomezia,South
+607,Italy,Lazio,Rome,South
+608,Italy,Lazio,Tivoli,South
+609,Italy,Lazio,Velletri,South
+610,Italy,Lazio,Viterbo,South
+611,Italy,Liguria,Genoa,South
+612,Italy,Liguria,La Spezia,South
+613,Italy,Liguria,Savona,South
+614,Italy,Lombardy,Bergamo,South
+615,Italy,Lombardy,Brescia,South
+616,Italy,Lombardy,Busto Arsizio,South
+617,Italy,Lombardy,Cinisello Balsamo,South
+618,Italy,Lombardy,Como,South
+619,Italy,Lombardy,Cremona,South
+620,Italy,Lombardy,Gallarate,South
+621,Italy,Lombardy,Legnano,South
+622,Italy,Lombardy,Milan,South
+623,Italy,Lombardy,Monza,South
+624,Italy,Lombardy,Sesto San Giovanni,South
+625,Italy,Lombardy,Treviglio,South
+626,Italy,Lombardy,Varese,South
+627,Italy,Lombardy,Vigevano,South
+628,Italy,Marche,Ancona,South
+629,Italy,Marche,Falconara Marittima,South
+630,Italy,Marche,Fano,South
+631,Italy,Marche,Pesaro,South
+632,Italy,Piedmont,Alessandria,South
+633,Italy,Piedmont,Asti,South
+634,Italy,Piedmont,Cuneo,South
+635,Italy,Piedmont,Moncalieri,South
+636,Italy,Piedmont,Novara,South
+637,Italy,Piedmont,Turin,South
+638,Italy,Sardinia,Cagliari,South
+639,Italy,Sardinia,Quartu Sant'Elena,South
+640,Italy,Sardinia,Sassari,South
+641,Italy,Sicily,Acireale,South
+642,Italy,Sicily,Agrigento,South
+643,Italy,Sicily,Catania,South
+644,Italy,Sicily,Gela,South
+645,Italy,Sicily,Marsala,South
+646,Italy,Sicily,Messina,South
+647,Italy,Sicily,Modica,South
+648,Italy,Sicily,Palermo,South
+649,Italy,Sicily,Ragusa,South
+650,Italy,Sicily,Trapani,South
+651,Italy,Sicily,Vittoria,South
+652,Italy,Trentino-Alto Adige,Bolzano,South
+653,Italy,Trentino-Alto Adige,Trento,South
+654,Italy,Tuscany,Arezzo,South
+655,Italy,Tuscany,Capannori,South
+656,Italy,Tuscany,Carrara,South
+657,Italy,Tuscany,Florence,South
+658,Italy,Tuscany,Grosseto,South
+659,Italy,Tuscany,Lucca,South
+660,Italy,Tuscany,Marina di Carrara,South
+661,Italy,Tuscany,Massa,South
+662,Italy,Tuscany,Montecatini Terme,South
+663,Italy,Tuscany,Pisa,South
+664,Italy,Tuscany,Pistoia,South
+665,Italy,Tuscany,Prato,South
+666,Italy,Tuscany,Siena,South
+667,Italy,Umbria,Foligno,South
+668,Italy,Umbria,Perugia,South
+669,Italy,Veneto,Chioggia,South
+670,Italy,Veneto,Rovigo,South
+671,Italy,Veneto,Treviso,South
+672,Italy,Veneto,Venice,South
+673,Italy,Veneto,Verona,South
+674,Italy,Veneto,Vicenza,South
+675,Netherlands,Drenthe,Assen,Central
+676,Netherlands,Drenthe,Emmen,Central
+677,Netherlands,Friesland,Leeuwarden,Central
+678,Netherlands,Gelderland,Apeldoorn,Central
+679,Netherlands,Gelderland,Arnhem,Central
+680,Netherlands,Gelderland,Barneveld,Central
+681,Netherlands,Gelderland,Doetinchem,Central
+682,Netherlands,Gelderland,Nijmegen,Central
+683,Netherlands,Groningen,Groningen,Central
+684,Netherlands,Limburg,Heerlen,Central
+685,Netherlands,Limburg,Maastricht,Central
+686,Netherlands,Limburg,Roermond,Central
+687,Netherlands,Limburg,Sittard,Central
+688,Netherlands,Limburg,Venlo,Central
+689,Netherlands,North Brabant,Bergen op Zoom,Central
+690,Netherlands,North Brabant,Breda,Central
+691,Netherlands,North Brabant,Eindhoven,Central
+692,Netherlands,North Brabant,Helmond,Central
+693,Netherlands,North Brabant,Oosterhout,Central
+694,Netherlands,North Brabant,Oss,Central
+695,Netherlands,North Brabant,Roosendaal,Central
+696,Netherlands,North Brabant,Tilburg,Central
+697,Netherlands,North Holland,Alkmaar,Central
+698,Netherlands,North Holland,Amsterdam,Central
+699,Netherlands,North Holland,Den Helder,Central
+700,Netherlands,North Holland,Haarlem,Central
+701,Netherlands,North Holland,Hilversum,Central
+702,Netherlands,North Holland,Purmerend,Central
+703,Netherlands,North Holland,Uithoorn,Central
+704,Netherlands,North Holland,Velsen,Central
+705,Netherlands,North Holland,Zaanstad,Central
+706,Netherlands,Overijssel,Almelo,Central
+707,Netherlands,Overijssel,Deventer,Central
+708,Netherlands,Overijssel,Enschede,Central
+709,Netherlands,Overijssel,Hardenberg,Central
+710,Netherlands,Overijssel,Hengelo,Central
+711,Netherlands,Overijssel,Zwolle,Central
+712,Netherlands,South Holland,Alphen aan den Rijn,Central
+713,Netherlands,South Holland,Capelle aan den IJssel,Central
+714,Netherlands,South Holland,Delft,Central
+715,Netherlands,South Holland,Dordrecht,Central
+716,Netherlands,South Holland,Leiden,Central
+717,Netherlands,South Holland,Rotterdam,Central
+718,Netherlands,South Holland,Schiedam,Central
+719,Netherlands,South Holland,Spijkenisse,Central
+720,Netherlands,South Holland,The Hague,Central
+721,Netherlands,South Holland,Vlaardingen,Central
+722,Netherlands,Utrecht,Amersfoort,Central
+723,Netherlands,Utrecht,Nieuwegein,Central
+724,Netherlands,Utrecht,Utrecht,Central
+725,Netherlands,Utrecht,Veenendaal,Central
+726,Netherlands,Utrecht,Zeist,Central
+727,Netherlands,Zeeland,Terneuzen,Central
+728,Norway,Buskerud,Drammen,North
+729,Norway,Hedmark,Hamar,North
+730,Norway,Hordaland,Bergen,North
+731,Norway,Oslo,Oslo,North
+732,Norway,Rogaland,Sandnes,North
+733,Norway,Rogaland,Stavanger,North
+734,Norway,Vest-Agder,Kristiansand,North
+735,Portugal,Aveiro,Feira,South
+736,Portugal,Braga,Braga,South
+737,Portugal,Braga,Guimarães,South
+738,Portugal,Coimbra,Coimbra,South
+739,Portugal,Lisboa,Amadora,South
+740,Portugal,Lisboa,Lisbon,South
+741,Portugal,Lisboa,Loures,South
+742,Portugal,Lisboa,Odivelas,South
+743,Portugal,Porto,Porto,South
+744,Portugal,Porto,Vila Nova de Gaia,South
+745,Portugal,Setúbal,Arrentela,South
+746,Spain,Andalusía,Cártama,South
+747,Spain,Andalusía,Chiclana de la Frontera,South
+748,Spain,Andalusía,Dos Hermanas,South
+749,Spain,Andalusía,El Ejido,South
+750,Spain,Andalusía,Estepona,South
+751,Spain,Andalusía,Fuengirola,South
+752,Spain,Andalusía,Granada,South
+753,Spain,Andalusía,Huelva,South
+754,Spain,Andalusía,Jerez de la Frontera,South
+755,Spain,Andalusía,Marbella,South
+756,Spain,Andalusía,Mijas,South
+757,Spain,Andalusía,San Fernando,South
+758,Spain,Andalusía,Seville,South
+759,Spain,Andalusía,Torremolinos,South
+760,Spain,Asturias,Oviedo,South
+761,Spain,Balearic Islands,Palma de Mallorca,South
+762,Spain,Basque Country,Barakaldo,South
+763,Spain,Basque Country,Bilbao,South
+764,Spain,Basque Country,Getxo,South
+765,Spain,Basque Country,Irun,South
+766,Spain,Basque Country,San Sebastian,South
+767,Spain,Basque Country,Vitoria,South
+768,Spain,Cantabria,Santander,South
+769,Spain,Castile and León,Burgos,South
+770,Spain,Castile and León,Palencia,South
+771,Spain,Castile and León,Ponferrada,South
+772,Spain,Castile and León,Salamanca,South
+773,Spain,Castile and León,Segovia,South
+774,Spain,Castile and León,Valladolid,South
+775,Spain,Castile and León,Zamora,South
+776,Spain,Castile-La Mancha,Albacete,South
+777,Spain,Castile-La Mancha,Cuenca,South
+778,Spain,Castile-La Mancha,Guadalajara,South
+779,Spain,Castile-La Mancha,Puertollano,South
+780,Spain,Castile-La Mancha,Talavera de la Reina,South
+781,Spain,Castile-La Mancha,Toledo,South
+782,Spain,Catalonia,Badalona,South
+783,Spain,Catalonia,Barcelona,South
+784,Spain,Catalonia,Castelldefels,South
+785,Spain,Catalonia,El Prat de Llobregat,South
+786,Spain,Catalonia,Girona,South
+787,Spain,Catalonia,Granollers,South
+788,Spain,Catalonia,Manresa,South
+789,Spain,Catalonia,Reus,South
+790,Spain,Catalonia,Rubí,South
+791,Spain,Catalonia,Sabadell,South
+792,Spain,Catalonia,Sant Boi de Llobregat,South
+793,Spain,Catalonia,Tarragona,South
+794,Spain,Ceuta,Ceuta,South
+795,Spain,Extremadura,Badajoz,South
+796,Spain,Galicia,Lugo,South
+797,Spain,Galicia,Ponteareas,South
+798,Spain,Galicia,Pontevedra,South
+799,Spain,Galicia,Santiago de Compostela,South
+800,Spain,Galicia,Vigo,South
+801,Spain,Madrid,Alcobendas,South
+802,Spain,Madrid,Coslada,South
+803,Spain,Madrid,El Escorial,South
+804,Spain,Madrid,Fuenlabrada,South
+805,Spain,Madrid,Getafe,South
+806,Spain,Madrid,Las Rozas de Madrid,South
+807,Spain,Madrid,Madrid,South
+808,Spain,Madrid,Majadahonda,South
+809,Spain,Madrid,Parla,South
+810,Spain,Madrid,Valdemoro,South
+811,Spain,Melilla,Melilla,South
+812,Spain,Murcia,Cartagena,South
+813,Spain,Murcia,Lorca,South
+814,Spain,Murcia,Molina de Segura,South
+815,Spain,Murcia,Murcia,South
+816,Spain,Navarra,Pamplona,South
+817,Spain,Valenciana,Alicante,South
+818,Spain,Valenciana,Benidorm,South
+819,Spain,Valenciana,Elda,South
+820,Spain,Valenciana,Elx,South
+821,Spain,Valenciana,Gandia,South
+822,Spain,Valenciana,Orihuela,South
+823,Spain,Valenciana,Sagunto,South
+824,Spain,Valenciana,Torrevieja,South
+825,Spain,Valenciana,Valencia,South
+826,Sweden,Halland,Halmstad,North
+827,Sweden,Skåne,Helsingborg,North
+828,Sweden,Skåne,Landskrona,North
+829,Sweden,Skåne,Lund,North
+830,Sweden,Södermanland,Eskilstuna,North
+831,Sweden,Stockholm,Haninge,North
+832,Sweden,Stockholm,Huddinge,North
+833,Sweden,Stockholm,Nacka,North
+834,Sweden,Stockholm,Solna,North
+835,Sweden,Stockholm,Stockholm,North
+836,Sweden,Stockholm,Upplands Väsby,North
+837,Sweden,Uppsala,Uppsala,North
+838,Sweden,Värmland,Karlstad,North
+839,Sweden,Västra Götaland,Gothenburg,North
+840,Switzerland,Basel-Stadt,Basel,Central
+841,Switzerland,Bern,Berne,Central
+842,Switzerland,Geneva,Geneva,Central
+843,Switzerland,Lucerne,Lucerne,Central
+844,Switzerland,St. Gallen,St. Gallen,Central
+845,Switzerland,Vaud,Lausanne,Central
+846,Switzerland,Zürich,Winterthur,Central
+847,Switzerland,Zürich,Zurich,Central
+848,United Kingdom,England,Ashford,North
+849,United Kingdom,England,Aylesbury,North
+850,United Kingdom,England,Barnsley,North
+851,United Kingdom,England,Basildon,North
+852,United Kingdom,England,Basingstoke,North
+853,United Kingdom,England,Bath,North
+854,United Kingdom,England,Bedford,North
+855,United Kingdom,England,Bideford,North
+856,United Kingdom,England,Birkenhead,North
+857,United Kingdom,England,Birmingham,North
+858,United Kingdom,England,Blackburn,North
+859,United Kingdom,England,Blackpool,North
+860,United Kingdom,England,Bognor Regis,North
+861,United Kingdom,England,Bolton,North
+862,United Kingdom,England,Bournemouth,North
+863,United Kingdom,England,Bracknell,North
+864,United Kingdom,England,Bradford,North
+865,United Kingdom,England,Brighton,North
+866,United Kingdom,England,Bristol,North
+867,United Kingdom,England,Burnley,North
+868,United Kingdom,England,Bury,North
+869,United Kingdom,England,Cambridge,North
+870,United Kingdom,England,Carlisle,North
+871,United Kingdom,England,Chatham,North
+872,United Kingdom,England,Chelmsford,North
+873,United Kingdom,England,Cheltenham,North
+874,United Kingdom,England,Chesterfield,North
+875,United Kingdom,England,Chester,North
+876,United Kingdom,England,Clacton-on-Sea,North
+877,United Kingdom,England,Colchester,North
+878,United Kingdom,England,Coventry,North
+879,United Kingdom,England,Crawley,North
+880,United Kingdom,England,Crewe,North
+881,United Kingdom,England,Darlington,North
+882,United Kingdom,England,Dartford,North
+883,United Kingdom,England,Derby,North
+884,United Kingdom,England,Dewsbury,North
+885,United Kingdom,England,Doncaster,North
+886,United Kingdom,England,Dudley,North
+887,United Kingdom,England,Dunstable,North
+888,United Kingdom,England,Eastbourne,North
+889,United Kingdom,England,Exeter,North
+890,United Kingdom,England,Fareham,North
+891,United Kingdom,England,Farnborough,North
+892,United Kingdom,England,Ferndown,North
+893,United Kingdom,England,Gateshead,North
+894,United Kingdom,England,Gillingham,North
+895,United Kingdom,England,Gloucester,North
+896,United Kingdom,England,Gosport,North
+897,United Kingdom,England,Gravesend,North
+898,United Kingdom,England,Great Yarmouth,North
+899,United Kingdom,England,Guildford,North
+900,United Kingdom,England,Halesowen,North
+901,United Kingdom,England,Halifax,North
+902,United Kingdom,England,Harlow,North
+903,United Kingdom,England,Harrogate,North
+904,United Kingdom,England,Harrow,North
+905,United Kingdom,England,Hartlepool,North
+906,United Kingdom,England,Hastings,North
+907,United Kingdom,England,Hemel Hempstead,North
+908,United Kingdom,England,Hereford,North
+909,United Kingdom,England,High Wycombe,North
+910,United Kingdom,England,Hinckley,North
+911,United Kingdom,England,Hove,North
+912,United Kingdom,England,Huddersfield,North
+913,United Kingdom,England,Ipswich,North
+914,United Kingdom,England,Kettering,North
+915,United Kingdom,England,Kidderminster,North
+916,United Kingdom,England,Kingswood,North
+917,United Kingdom,England,Leeds,North
+918,United Kingdom,England,Leicester,North
+919,United Kingdom,England,Letchworth,North
+920,United Kingdom,England,Lincoln,North
+921,United Kingdom,England,Littlehampton,North
+922,United Kingdom,England,Liverpool,North
+923,United Kingdom,England,London,North
+924,United Kingdom,England,Loughborough,North
+925,United Kingdom,England,Lowestoft,North
+926,United Kingdom,England,Luton,North
+927,United Kingdom,England,Maidenhead,North
+928,United Kingdom,England,Maidstone,North
+929,United Kingdom,England,Manchester,North
+930,United Kingdom,England,Mansfield,North
+931,United Kingdom,England,Margate,North
+932,United Kingdom,England,Middlesbrough,North
+933,United Kingdom,England,Morley,North
+934,United Kingdom,England,Newcastle upon Tyne,North
+935,United Kingdom,England,Northampton,North
+936,United Kingdom,England,Northwich,North
+937,United Kingdom,England,Norwich,North
+938,United Kingdom,England,Nottingham,North
+939,United Kingdom,England,Nuneaton,North
+940,United Kingdom,England,Oldham,North
+941,United Kingdom,England,Oxford,North
+942,United Kingdom,England,Peterborough,North
+943,United Kingdom,England,Plymouth,North
+944,United Kingdom,England,Poole,North
+945,United Kingdom,England,Portsmouth,North
+946,United Kingdom,England,Preston,North
+947,United Kingdom,England,Reading,North
+948,United Kingdom,England,Redditch,North
+949,United Kingdom,England,Rochdale,North
+950,United Kingdom,England,Rotherham,North
+951,United Kingdom,England,Rugby,North
+952,United Kingdom,England,Runcorn,North
+953,United Kingdom,England,Sale,North
+954,United Kingdom,England,Sheffield,North
+955,United Kingdom,England,Shrewsbury,North
+956,United Kingdom,England,Slough,North
+957,United Kingdom,England,Solihull,North
+958,United Kingdom,England,South Shields,North
+959,United Kingdom,England,Southend-on-Sea,North
+960,United Kingdom,England,Southport,North
+961,United Kingdom,England,Stafford,North
+962,United Kingdom,England,Stockport,North
+963,United Kingdom,England,Stockton-on-Tees,North
+964,United Kingdom,England,Stoke-on-Trent,North
+965,United Kingdom,England,Stourbridge,North
+966,United Kingdom,England,Sunderland,North
+967,United Kingdom,England,Swindon,North
+968,United Kingdom,England,Tamworth,North
+969,United Kingdom,England,Taunton,North
+970,United Kingdom,England,Torquay,North
+971,United Kingdom,England,Wakefield,North
+972,United Kingdom,England,Wallasey,North
+973,United Kingdom,England,Walsall,North
+974,United Kingdom,England,Warrington,North
+975,United Kingdom,England,Washington,North
+976,United Kingdom,England,Waterlooville,North
+977,United Kingdom,England,Watford,North
+978,United Kingdom,England,West Bromwich,North
+979,United Kingdom,England,Weston-super-Mare,North
+980,United Kingdom,England,Widnes,North
+981,United Kingdom,England,Wigan,North
+982,United Kingdom,England,Woking,North
+983,United Kingdom,England,Wolverhampton,North
+984,United Kingdom,England,Worcester,North
+985,United Kingdom,England,Worthing,North
+986,United Kingdom,England,York,North
+987,United Kingdom,Scotland,Aberdeen,North
+988,United Kingdom,Scotland,Cumbernauld,North
+989,United Kingdom,Scotland,Dundee,North
+990,United Kingdom,Scotland,East Kilbride,North
+991,United Kingdom,Scotland,Edinburgh,North
+992,United Kingdom,Scotland,Glasgow,North
+993,United Kingdom,Scotland,Kilwinning,North
+994,United Kingdom,Scotland,Livingston,North
+995,United Kingdom,Scotland,Paisley,North
+996,United Kingdom,Wales,Barry,North
+997,United Kingdom,Wales,Briton Ferry,North
+998,United Kingdom,Wales,Cardiff,North
+999,United Kingdom,Wales,Clydach,North
+1000,United Kingdom,Wales,Rhondda,North
+1001,United Kingdom,Wales,Swansea,North
